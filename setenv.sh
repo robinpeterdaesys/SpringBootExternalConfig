@@ -1,0 +1,1 @@
+export CLASSPATH="$CLASSPATH=/usr/local/tomcat/external-config-files"
